@@ -14,7 +14,7 @@ You need to provision two environment for this lab.
 
 #### 2.1. Reserving WCA service environment
 
-You can make use of the API Key provided by the Instructor and avoid provisioning this environment and goto next step as well.
+If you want to save time, you can make use of the API Key provided by the Instructor and avoid provisioning this environment and goto next section.
 
 1. Execute the instructions given in the lab guide under section `2.1.1 Submit a reservation for the WCA service environment` from page 6.
 
