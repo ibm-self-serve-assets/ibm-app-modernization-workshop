@@ -10,7 +10,7 @@ Here are the steps to be done in this lab.
 
 <img src="images/image5.png">
 
-3. Download the `Demo Guide` from the url https://ibm.ent.box.com/s/rleoom7y672hiusrj73e43nbuzbdhn5a
+3. Download the `Demo Guide` from the url https://ibm.ent.box.com/s/rleoom7y672hiusrj73e43nbuzbdhn5a. The file name would be `AMA demo guide v1.1.docx`.
 
 ## 2. Reserve Techzone Instance
 
@@ -20,9 +20,9 @@ Here are the steps to be done in this lab.
 
 <img src="images/image4.png">
 
-    Note: You can use the `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx` that you downloaded in the previous step.
+Note: You can use the `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx` that you downloaded in the previous step.
 
-    #### Steps
+#### Steps
 
     Here are the steps involved in this section.
 
@@ -66,4 +66,4 @@ Here are the steps to be done in this lab.
 
 In case, if you are not able to bring the environment up, you can look at the below url to understand the various optioins available in AMA.
 
- https://github.com/GandhiCloudLab/ibm-ama/tree/main/02-ama-in-detail)    
+ https://github.com/GandhiCloudLab/ibm-ama/tree/main/02-ama-in-detail
