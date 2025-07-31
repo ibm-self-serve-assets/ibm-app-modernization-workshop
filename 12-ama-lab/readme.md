@@ -10,7 +10,9 @@ Here are the steps to be done in this lab.
 
 <img src="images/image5.png">
 
-3. Download the `Demo Guide` from the url https://ibm.ent.box.com/s/rleoom7y672hiusrj73e43nbuzbdhn5a. The file name would be `AMA demo guide v1.1.docx`.
+3. Download the `Demo Guide` from the url https://ibm.ent.box.com/s/rleoom7y672hiusrj73e43nbuzbdhn5a. 
+
+    The downloaded file name would be `AMA demo guide v1.1.docx`.
 
 ## 2. Reserve Techzone Instance
 
