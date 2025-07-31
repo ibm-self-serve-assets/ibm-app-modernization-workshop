@@ -10,9 +10,13 @@ Here are the steps to be done in this lab.
 
 3. Download the `Demo Guide` from the tile `EASeJ Demo guide`
 
+    <img src="images/image1.png">
+
 ## 2. Reserve Techzone Instance
 
 1. Reserve the EASeJ Demo instance in the Techzone by using the url https://techzone.ibm.com/collection/enterprise-application-service-for-java/environments
+
+    <img src="images/image2.png">
 
     Note: You can use the `Setup Guide` document `Setup Guide - EASeJ Demo Environment v1.docx` that you downloaded in the previous step.
 
