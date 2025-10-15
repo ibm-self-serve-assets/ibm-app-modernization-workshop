@@ -24,7 +24,7 @@ Here are the steps to be done in this lab.
 
 ## 3. Start AMA in the demo environment 
 
-1. Login into the Remote System using the `NoVNC` way available in teh  `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo environment reservations and setup guide`
+1. Log into the Remote System using the `NoVNC` method described in the  `Setup Guide` doc from the title `MoRE 1.0.0.1 demo environment reservations and setup guide`
 
 2. In the remote system, change to the directory where AMA is installed
 
