@@ -12,6 +12,8 @@ Here are the steps to be done in this lab.
 
 You need to provision two environment for this lab. 
 
+Here is the URL of the TechZone environment collection available for WCA. https://techzone.ibm.com/collection/wca/environments
+
 #### 2.1. Reserving WCA service environment
 
 If you want to save time, you can make use of the API Key provided by the Instructor and avoid provisioning this environment and goto next section.

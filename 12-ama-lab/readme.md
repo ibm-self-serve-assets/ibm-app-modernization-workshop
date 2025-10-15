@@ -22,20 +22,28 @@ Here are the steps to be done in this lab.
 
 <img src="images/image4.png">
 
-## 3. Setup Demo Environment
+## 3. Start AMA in the demo environment 
 
-1. Execute the steps mentioned in the last page of the downloaded `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx`
+1. Login into the Remote System using the `NoVNC` way available in teh  `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo environment reservations and setup guide`
 
-    Note:
+2. In the remote system, change to the directory where AMA is installed
 
-    You may need to use
     ```
-    cd /home/techzone/ama/ta_local_dev/build/distributions/application-modernization-accelerator-local-4.3.0
+    cd ~/application-modernization-accelerator-local-4.3.0/
+    scripts/startLocal.sh 
     ```
-    instead of 
+
+3. Wait until AMA has started successfully, and the URL is displayed.
+
     ```
-    cd /home/techzone/ama/ta_local_dev/build/distributions/application-modernization-accelerator-local-4.1.0
+    Configuring Application Modernization Accelerator .........................................................
+    Status
+    ------------------------------------------------------------------------------------------------------
+    Application Modernization Accelerator 4.3.0 is available for use at the following URL> https://rhel9-base.gym.lan:3001
     ```
+
+3. Open the URL `https://rhel9-base.gym.lan:3001` inside the remote desktop browser.
+
 
 ## 4. Run the Demo
 
@@ -53,8 +61,12 @@ Here are the steps to be done in this lab.
     6. View app Assesment in detail (steps 21 to 28)
     6. View Migration Plan (steps 29 to 35)
 
-## 5. AMA in Detail
+## 5. AMA in Local system
 
-In case, if you are not able to bring the environment up, you can look at the below url to understand the various optioins available in AMA.
+If you have challenges in setting up the environment you can install the trail version in your local system. Here are the links.
 
- https://github.com/GandhiCloudLab/ibm-ama/tree/main/02-ama-in-detail
+1. Installing AMA in local : https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/01-ama-local-install
+
+In case, if you are not able to bring the environment up, you can look at the below url to understand the various options available in AMA.
+
+2. AMA in detail : https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/02-ama-in-detail
